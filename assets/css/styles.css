@@ -62,7 +62,7 @@
   background-color: #fff;
   border-color: rgba(255,255,255,0);
   outline: 0;
-  box-shadow: 0 0 0 1px rgb(0,0,0);
+  box-shadow: 0 0 0 1px rgb(0,0,0)!important;
 }
 
 .form-control {
